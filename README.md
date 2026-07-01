@@ -2,7 +2,7 @@
 
 A complete end-to-end customer analytics project built using SQL, Python, PostgreSQL and Streamlit to analyze purchasing behavior, revenue trends, customer retention, and product performance from the Brazilian E-Commerce dataset.
 
-**🌐 Live Demo:** [https://retainiq-customer-analytics.streamlit.app](url)
+**🌐 Live Demo:** https://retainiq-customer-analytics.streamlit.app/
 
 ## Dashboard Preview
 
